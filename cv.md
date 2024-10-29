@@ -1,4 +1,5 @@
-#Evgenii Petrov
+#**Evgenii Petrov**
+====
 *Contacts: +Location: Pilsen, Czech Republic, +email: epetrov@email.cz, +Github: EvzenPetrov
 *About myself: Historian, who try to became web developer
 *Skills: HTML, CSS, JS
